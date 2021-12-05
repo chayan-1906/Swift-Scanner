@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "109931662793",
+    "project_id": "swift-scanner-chayan19062000",
+    "storage_bucket": "swift-scanner-chayan19062000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109931662793:android:9de12869171e5ce4aeec18",
+        "android_client_info": {
+          "package_name": "com.pdas.swift_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109931662793-60r7fidnh36h274lqko52dcb1het8gke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pdas.swift_scanner",
+            "certificate_hash": "e463b792b29de3a26be896d7b1baeb1627028903"
+          }
+        },
+        {
+          "client_id": "109931662793-v2jjq6aoj84ckpnn4ukg7l527t2se47n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65CwIvM1DS5521XCDHJ2a1TKovbI94Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109931662793-v2jjq6aoj84ckpnn4ukg7l527t2se47n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109931662793-rv7c5upuda3hif9tttshob0c4fsbpmfu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.swiftscanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

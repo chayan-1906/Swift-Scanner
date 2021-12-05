@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>109931662793-rv7c5upuda3hif9tttshob0c4fsbpmfu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.109931662793-rv7c5upuda3hif9tttshob0c4fsbpmfu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>109931662793-mk4a0g9jqvvmctlvs8hpgq307s2t8j22.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5Km9XRvFZwvkGUTRTjhOY3uRWzk5Zyjk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>109931662793</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.swiftscanner</string>
+	<key>PROJECT_ID</key>
+	<string>swift-scanner-chayan19062000</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swift-scanner-chayan19062000.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:109931662793:ios:8f7249f5c5ea257eaeec18</string>
+</dict>
+</plist>
